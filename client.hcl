@@ -12,6 +12,7 @@ client {
     servers = ["192.168.1.200:4647"]
 }
 
+# Change the port for each new client
 ports {
   http = 5656
 }
