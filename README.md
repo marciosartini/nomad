@@ -1,8 +1,8 @@
 # nomad
 
-## Add server file
+### Add server file
 - server.hcl
 
 
-## Add client file
+### Add client file
 - client.hcl
